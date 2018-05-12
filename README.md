@@ -1,6 +1,6 @@
 ## Introdução
 
-Este projeto reflete um dos desafios realizados como parte de um processo seletivo para uma empresa na cidade de Blumenau-SC.
+Este projeto reflete um dos desafios realizados como parte de um processo seletivo para uma empresa.
 
 Buscou-se atender os requisitos solicitados, além de terem sido **adicionados por mim artefatos concernentes a gestão de projetos, gerência de configuração, entre outros**.
 
@@ -71,7 +71,7 @@ Sinta-se à vontade em abrir um [issue][DefeitoWeatherAPI] ou [pull request][Pul
 [//]: # (Links de referências para os requisitos do sistema)
 
 [CadastroCidade]: <https://github.com/alexandredorea/WeatherAPI/blob/master/Documentation/Especification/01%20-%20Cadastro%20de%20Cidade.md>
-[DetalhePrevisao]: <>
+[DetalhePrevisao]: <https://github.com/alexandredorea/WeatherAPI/blob/master/Documentation/Especification/02%20-%20Previsao%20do%20Tempo%20da%20Cidade.md>
 
 
 

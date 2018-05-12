@@ -16,10 +16,11 @@ A tela com detalhe da previsão do tempo deve exibe um “forecast” de 5 dias ao us
 6. Campo "Velocidade", deve exibir a velocidade dos ventos;
 7. Campo "Umidade" deve exibir a umidade relativa do ar em percentual;
 8. Devem conter ainda um “forecast” de 5 dias com os seguintes campos:
-8.1. Campo "Dia da Semana";
-8.2. Campo "Imagem do Status do Clima";
-8.3. Campo "Temperatura Máxima";
-8.4. Campo "Temperatura Mínima";
+8. 1. Campo "Dia da Semana";
+8. 2. Campo "Imagem do Status do Clima";
+8. 3. Campo "Temperatura Máxima";
+8. 4. Campo "Temperatura Mínima";
+
 
 **Observação**
 
