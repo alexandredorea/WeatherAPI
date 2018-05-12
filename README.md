@@ -55,7 +55,7 @@ Para se ter uma ideia do andamento do projeto [clique aqui][ProjetoWeatherAPI] e
 
 ## Ainda tem perguntas ou sugestão de melhoria?
 
-Sinta-se à vontade em abrir um [issue][DefeitoWeatherAPI] ou [Pull Request][PullRequest].
+Sinta-se à vontade em abrir um [issue][DefeitoWeatherAPI] ou [pull request][PullRequest].
 
 
 
@@ -70,7 +70,7 @@ Sinta-se à vontade em abrir um [issue][DefeitoWeatherAPI] ou [Pull Request][Pul
 
 [//]: # (Links de referências para os requisitos do sistema)
 
-[CadastroCidade]: <>
+[CadastroCidade]: <https://github.com/alexandredorea/WeatherAPI/blob/master/Documentation/Especification/01%20-%20Cadastro%20de%20Cidade.md>
 [DetalhePrevisao]: <>
 
 
