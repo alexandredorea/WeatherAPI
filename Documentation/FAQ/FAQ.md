@@ -25,6 +25,6 @@ Não há dificuldades para execução da aplicação - ainda que se utilize como banco
 [IDEVS2017]: <https://www.visualstudio.com/pt-br/downloads/>
 [IDESQL2017]: <https://www.microsoft.com/pt-br/sql-server/sql-server-downloads>
 [RepositoryWeatherAPI]: <https://github.com/alexandredorea/WeatherAPI>
-[FAQ_02]: <https://github.com/alexandredorea/WeatherAPI/tree/master/Documentation/FAQ/Imagens/FAQ_02.png>
+[FAQ_02]: <https://github.com/alexandredorea/WeatherAPI/blob/master/Documentation/FAQ/Imagens/FAQ_02.PNG>
 
 -----
