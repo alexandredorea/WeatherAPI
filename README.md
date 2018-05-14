@@ -57,6 +57,10 @@ Para se ter uma ideia do andamento do projeto [clique aqui][ProjetoWeatherAPI] e
 
 Sinta-se à vontade em abrir um [issue][DefeitoWeatherAPI] ou [pull request][PullRequest].
 
+## FAQ sobre esta entrevista
+
+Para ter acesso ao FAQ [clique aqui][FAQ].
+
 
 
 [//]: # (Links de referências para os badges deste repositório)
@@ -100,3 +104,4 @@ Sinta-se à vontade em abrir um [issue][DefeitoWeatherAPI] ou [pull request][Pul
 
 [DefeitoWeatherAPI]: <https://github.com/alexandredorea/WeatherAPI/issues>
 [PullRequest]: <https://github.com/alexandredorea/WeatherAPI/pulls>
+[FAQ]: <https://github.com/alexandredorea/WeatherAPI/blob/master/Documentation/FAQ/FAQ.md>
