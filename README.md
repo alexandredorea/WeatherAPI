@@ -2,13 +2,14 @@
 
 Este projeto reflete um dos desafios realizados como parte de um processo seletivo para uma empresa.
 
-Buscou-se atender os requisitos solicitados, além de terem sido **adicionados por mim artefatos concernentes a gestão de projetos, gerência de configuração, entre outros**.
+Buscou-se atender os requisitos solicitados, além de terem sido **adicionados artefatos (de cunho pessoal) concernentes a gestão de projetos, gerência de configuração, entre outros para melhor entendimento do que se pediu**.
 
 
 
 ## Desafio: Cadastro de Notícias
 
 [![GitHub issues][ImagemProblema]][Problemas] [![GitHub license][ImagemLicenca]][Licenca]
+
 
 
 ## Cenário
@@ -18,6 +19,7 @@ Você trabalha em uma agência de meteorologia de grande importância para muito
 Sua função é programar uma página de “Cadastro de Cidade”, onde o usuário irá preencher um campo para o nome da cidade e listar todas as cidades cadastradas, contendo links para visualizar os detalhes da previsão da cidade cadastrada.
 
 
+
 ## Especificações
 
 A documentação deste projeto encontram-se dividida em:
@@ -25,13 +27,16 @@ A documentação deste projeto encontram-se dividida em:
 1. [Cadastro de Cidade][CadastroCidade]
 2. [Detalhe de Previsão][DetalhePrevisao]
 
+
+
 ## Observação
 
 1. O problema foi resolvido utilizando plataforma web, considerando as tecnologias básicas como HTML, CSS e Javascript, observando as boas práticas de desenvolvimento web;
 2. O código “server-side” foi desenvolvido obrigatoriamente em ASP.NET MVC e seguindo convenções REST (preferencialmente);
-3. O Layout/Design da página web não era o principal fator de analise para este problema, mas isso não significava que devê-se fazer uma página sem quaisquer critérios para uma boa apresentação visual;
+3. O Layout/Design da página web não era o principal fator de analise para este problema, mas isso não significava que devê-se desenvolver uma página sem quaisquer critérios para uma boa apresentação visual;
 4. Para persistência dos dados foram utilizados Entity Framework Core 2.0 com SQL Server 2017.
 5. Foram ainda aplicado para este problema, conceitos de Metodologia Ágil [Kanban e Scrum][ProjetoWeatherAPI], os quais foram definidas as *tasks* para uma melhor organização.
+
 
 
 ## Recursos utilizados no desenvolvimento da aplicação:
@@ -48,14 +53,18 @@ A documentação deste projeto encontram-se dividida em:
 |SQL Server 2017                           |[Guia][GuiaSQL2017]               |[IDE][IDESQL2017] |
 
 
+
 ## Andamento do Projeto
 
-Para se ter uma ideia do andamento do projeto [clique aqui][ProjetoWeatherAPI] e tenha acesso ao **Quadro Atividades** para ver as *Tasks*.
+Para saber sobre o andamento do projeto [clique aqui][ProjetoWeatherAPI] e tenha acesso ao **Quadro Atividades** para ver as *Tasks* que já foram concluídas.
 
 
-## Ainda tem perguntas ou sugestão de melhoria?
+
+## Você tem perguntas, dúvidas ou sugestões de melhoria?
 
 Sinta-se à vontade em abrir um [issue][DefeitoWeatherAPI] ou [pull request][PullRequest].
+
+
 
 ## FAQ sobre esta entrevista
 
